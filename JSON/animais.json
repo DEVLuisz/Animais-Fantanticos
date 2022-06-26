@@ -1,0 +1,31 @@
+[
+  {
+    "specie" : "Fênix",
+    "total": 100
+  },
+
+  {
+    "specie" : "Harpias",
+    "total": 120
+  },
+
+  {
+    "specie" : "Pegasus",
+    "total": 10
+  },
+
+  {
+    "specie" : "Lobo Atroz",
+    "total": 16
+  },
+
+  {
+    "specie" : "Tigre Dente de Sabre",
+    "total": 16
+  },
+
+  {
+    "specie" : "Leão Negro",
+    "total": 30
+  }
+]

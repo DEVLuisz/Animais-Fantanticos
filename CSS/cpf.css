@@ -1,0 +1,12 @@
+.li-cpf { 
+  display: none;
+  padding: 5px;
+  font-family: 'IBM Plex Mono';
+}
+.li-cpf:nth-of-type(odd) {
+  background: #FACCD0;
+}
+
+.cliente-cpf{
+  display: none;
+}
